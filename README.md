@@ -6,13 +6,13 @@ In this project, you will be provided with a real-world dataset, extracted from 
 ## Code
 You can run the project in the provided workspace or in your local environment. Both implementations are provided
 
-###Local Environment
+### Local Environment
 I have created a docker compose file that will start up the whole infrastructure needed to run the project. All the details and code can be found in ths section:
 
 [SF Crime Statistics with Spark Streaming with Docker Compose](local_environment/README.md)
 
 
-###Workspace
+### Workspace
 
 [SF Crime Statistics with Spark Streaming Workspace Version](workspace/README.md)
 
